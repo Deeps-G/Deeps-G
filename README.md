@@ -12,15 +12,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=merko&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=merko&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=rose_pine&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deeps-G&theme=merko&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Deeps-G&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
