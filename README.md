@@ -57,6 +57,18 @@
 </p>
 
 ---
+<img src="https://img.shields.io/github/followers/Deeps-G?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Deeps-G?label=Stars&style=social"/>
+<img src="https://komarev.com/ghpvc/?username=Deeps-G&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/GitHub-User-black?logo=github"/>
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical"/>
+---
+<img src="https://streak-stats.demolab.com?user=Deeps-G&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical"/>
+
+
 
 
 
