@@ -66,4 +66,4 @@
 
 ---
 
-<p align="center">💗 Minimalism is the key • Clean Code • Beautiful Design</p>
+<p align="center">Looking forward to contribute to projects!💗</p>
