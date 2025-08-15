@@ -12,8 +12,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=rose_pine&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=rose_pine&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
 </p>
 
 ---
