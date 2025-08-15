@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepanshi</h1>
-<h3 align="center">Web and App Developer • UI/UX Enthusiast • Problem Solver</h3>
+<h3 align="center">Web and App Developer • AI/ML and Data science Enthusiast • Problem Solver</h3>
 
 ---
 
 ### 🌸 About Me
-- 🌱 Learning **AI & Advanced Web Development**
-- 💬 Ask me about **Python, React, UI/UX**
+- 🌱 Learning **AI/ML & DL**
+- 💬 Ask me about **Python, Web Dev, UI/UX**
 - 📫 Reach me at: **deepanshigoyal12345@gmail.com**
 
 ---
