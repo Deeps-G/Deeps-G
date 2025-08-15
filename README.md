@@ -58,6 +58,9 @@
 
 ---
 
+![GitHub stars](https://img.shields.io/github/stars/Deeps-G?affiliations=OWNER&style=for-the-badge&logo=github&color=FFD700)
+
+
 
 
 ---
