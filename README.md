@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=omni&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=calm&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=calm&hide_border=true" height="150" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deeps-G&theme=omni&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Deeps-G&theme=calm&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
