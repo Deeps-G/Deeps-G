@@ -23,30 +23,30 @@
   <img src="https://streak-stats.demolab.com?user=Deeps-G&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
 ### 🛠️ Tech Stack
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <!-- Languages -->
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />
+  <img src="https://cdn.simpleicons.org/java/007396" height="32" alt="Java" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="32" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="SQL / MySQL" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="32" alt="Tableau" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="32" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="32" alt="Canva" />
 </p>
+
+
 
 ---
 
