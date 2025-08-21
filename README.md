@@ -4,7 +4,7 @@
 ---
 
 ### 🌸 About Me
-- 🌱 Learning **AI/ML & DL**
+- 🌱 Learning **ML Algorithms🎯 & Diving deep in the world of AI🥽**
 - 💬 Ask me about **Python, Web Dev, UI/UX**
 - 📫 Reach me at: **deepanshigoyal12345@gmail.com**
 
