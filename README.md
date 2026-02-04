@@ -10,11 +10,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=radical&hide_border=true" height="150"/>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=radical&hide_border=true" height="150"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=radical&hide_border=true" height="150" /> -->
-</p>
+<!-- </p> -->
 
 ---
 
