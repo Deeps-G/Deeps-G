@@ -12,9 +12,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=radical&hide_border=true" height="150" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Deeps-G's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeps-G&show_icons=true&theme=radical&hide_border=true" height="150"
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeps-G&layout=compact&theme=radical&hide_border=true" height="150" /> -->
 </p>
 
 ---
